@@ -1,0 +1,71 @@
+.borda
+{
+	border-color:#000000;
+	border-style:solid;
+}
+#info
+{
+	position: fixed;
+	color:#ffffff;
+}
+body
+{
+	background:#000000;
+}
+
+
+#camada1
+{
+	position: fixed;
+	background-image: url('img/g1.png');
+	background-size: 15%;
+	height: 200%;
+	width: 200%;
+	left:-20%;
+	top: -20%;
+}
+
+#camada2
+{
+	position: fixed;
+	background-image: url('img/g2.png');
+	background-size: 25%;
+	height: 200%;
+	width: 200%;
+	left:-20%;
+	top: -20%;
+}
+#camada3
+{
+	position: fixed;
+	background-image: url('img/e3.png');
+	background-repeat: no-repeat;
+	background-size: 50%;
+	height: 150%;
+	width: 150%;
+	left:10%;
+	top: -20%;
+}
+#camada4
+{
+	position: fixed;
+	background-image: url('img/e4.png');
+	background-repeat: no-repeat;
+	background-size: 50%;
+	height: 150%;
+	width: 150%;
+	left:10%;
+	top: -20%;
+}
+
+#camada5
+{
+	position: fixed;
+	background-image: url('img/i5.png');
+	background-repeat: no-repeat;
+	background-size: 50%;
+	height: 150%;
+	width: 150%;
+	left:10%;
+	top: -20%;
+}
